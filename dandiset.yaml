@@ -52,8 +52,8 @@ citation: Calvigioni, Daniela; Fuzik, Janos; Le Merre, Pierre; Slashcheva, Marin
   Jung, Felix; Ortiz, Cantin; Lentini, Antonio; Csillag, Veronika; Graziano, Marta;
   Nikolakopoulou, Ifigeneia; Weglage, Moritz; Lazaridis, Iakovos; Kim, Hoseok; Lenzi,
   Irene; Park, Hyunsoo; Reinius, Björn; Carlén, Marie; Meletis, Konstantinos (2023)
-  Esr1+ hypothalamic-habenula neurons shape aversive states (Version draft) [Data
-  set]. DANDI archive. https://doi.org/10.80507/dandi.123456/0.123456.1234
+  Esr1+ hypothalamic-habenula neurons shape aversive states (Version 0.230417.1502)
+  [Data set]. DANDI archive. https://doi.org/10.48324/dandi.000473/0.230417.1502
 contributor:
 - affiliation: []
   email: daniela.calvigioni@ki.se
@@ -196,9 +196,9 @@ description: Prefrontal cortex (PFC) high-density extracellular recordings (Neur
   in head-fixed mice during an aversive-conditioning task. Neuronal responses to internally
   generated (i.e. pathway-specific optogenetic activation, see the main article for
   details) and externally derived (i.e. air puffs) aversive signals have been recorded.
-doi: 10.80507/dandi.123456/0.123456.1234
+doi: 10.48324/dandi.000473/0.230417.1502
 ethicsApproval: []
-id: DANDI:000473/draft
+id: DANDI:000473/0.230417.1502
 identifier: DANDI:000473
 keywords:
 - Neuropixels
@@ -211,7 +211,7 @@ keywords:
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000473/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000473/0.230417.1502/assets.yaml
 name: Esr1+ hypothalamic-habenula neurons shape aversive states.
 protocol: []
 publishedBy:
@@ -237,6 +237,6 @@ repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.4
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000473/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000473/0.230417.1502
+version: 0.230417.1502
 wasGeneratedBy: []

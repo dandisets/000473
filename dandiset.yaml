@@ -31,9 +31,9 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: signal filtering technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 108435203475
-  numberOfFiles: 24
-  numberOfSubjects: 24
+  numberOfBytes: 113558681447
+  numberOfFiles: 25
+  numberOfSubjects: 25
   schemaKey: AssetsSummary
   species:
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10090
@@ -191,7 +191,7 @@ contributor:
   - dcite:Conceptualization
   schemaKey: Person
 dateCreated: '2023-04-12T14:12:01.809823+00:00'
-datePublished: '2023-04-17T12:09:16.030799+00:00'
+datePublished: '2023-04-17T15:02:02.873022+00:00'
 description: Prefrontal cortex (PFC) high-density extracellular recordings (Neuropixels)
   in head-fixed mice during an aversive-conditioning task. Neuronal responses to internally
   generated (i.e. pathway-specific optogenetic activation, see the main article for
@@ -215,13 +215,13 @@ manifestLocation:
 name: Esr1+ hypothalamic-habenula neurons shape aversive states.
 protocol: []
 publishedBy:
-  endDate: '2023-04-17T12:09:16.030799+00:00'
-  id: urn:uuid:62402240-f8b3-47ca-bfac-a9c2e964cf4f
+  endDate: '2023-04-17T15:02:02.873022+00:00'
+  id: urn:uuid:117a2086-0878-46c1-b2ae-703da48e89da
   name: DANDI publish
   schemaKey: PublishActivity
-  startDate: '2023-04-17T12:09:16.030799+00:00'
+  startDate: '2023-04-17T15:02:02.873022+00:00'
   wasAssociatedWith:
-  - id: urn:uuid:eda041cb-82ff-47b0-af5f-0e031e7dfa26
+  - id: urn:uuid:97bc73bb-2db6-473f-a45a-950fe246dbc5
     identifier: RRID:SCR_017571
     name: DANDI API
     schemaKey: Software

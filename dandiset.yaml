@@ -63,8 +63,8 @@ citation: Calvigioni, Daniela; Fuzik, Janos; Le Merre, Pierre; Slashcheva, Marin
   Jung, Felix; Ortiz, Cantin; Lentini, Antonio; Csillag, Veronika; Graziano, Marta;
   Nikolakopoulou, Ifigeneia; Weglage, Moritz; Lazaridis, Iakovos; Kim, Hoseok; Lenzi,
   Irene; Park, Hyunsoo; Reinius, Björn; Carlén, Marie; Meletis, Konstantinos (2026)
-  Esr1+ hypothalamic-habenula neurons shape aversive states (Version draft) [Data
-  set]. DANDI Archive. https://dandiarchive.org/dandiset/000473/draft
+  Esr1+ hypothalamic-habenula neurons shape aversive states (Version 0.261121.1750)
+  [Data set]. DANDI Archive. https://doi.org/10.48324/dandi.000473/0.261121.1750
 contributor:
 - affiliation: []
   email: daniela.calvigioni@ki.se
@@ -218,12 +218,14 @@ contributor:
   - dcite:Funder
   schemaKey: Organization
 dateCreated: '2023-04-12T14:12:01.809823+00:00'
+datePublished: '2026-11-21T17:50:39.361371+00:00'
 description: Prefrontal cortex (PFC) high-density extracellular recordings (Neuropixels)
   in head-fixed mice during an aversive-conditioning task. Neuronal responses to internally
   generated (i.e. pathway-specific optogenetic activation, see the main article for
   details) and externally derived (i.e. air puffs) aversive signals have been recorded.
+doi: 10.48324/dandi.000473/0.261121.1750
 ethicsApproval: []
-id: DANDI:000473/draft
+id: DANDI:000473/0.261121.1750
 identifier: DANDI:000473
 keywords:
 - Neuropixels
@@ -236,9 +238,21 @@ keywords:
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000473/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000473/0.261121.1750/assets.yaml
 name: Esr1+ hypothalamic-habenula neurons shape aversive states.
 protocol: []
+publishedBy:
+  endDate: '2026-11-21T17:50:39.361371+00:00'
+  id: urn:uuid:35f31693-af24-4e6d-93b3-7bd98198222b
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2026-11-21T17:50:39.361371+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:9bcf9d19-1d52-475d-8607-19bd8c2d606b
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource:
 - identifier: Github
   name: Github code
@@ -253,10 +267,11 @@ relatedResource:
   resourceType: dcite:JournalArticle
   schemaKey: Resource
   url: https://doi.org/10.1038/s41593-023-01367-8
+releaseNotes: Adding raw ap band data.
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.4
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000473/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000473/0.261121.1750
+version: 0.261121.1750
 wasGeneratedBy: []
